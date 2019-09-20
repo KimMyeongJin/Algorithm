@@ -14,6 +14,6 @@ Heap Sort (힙정렬)
 
 Counting Sort (개수정렬)
 
-Stack
+Stack (스택)
 
-Queue
+Queue (큐)
