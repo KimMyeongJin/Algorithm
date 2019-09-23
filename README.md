@@ -17,3 +17,9 @@ Counting Sort (개수정렬)
 Stack (스택)
 
 Queue (큐)
+
+Breath First Search (너비 우선 탐색)
+
+Union Find (합집합 찾기)
+
+Kruskal Algorithm (크루스칼 알고리즘)
