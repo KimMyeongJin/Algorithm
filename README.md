@@ -24,4 +24,4 @@ Union Find (합집합 찾기)
 
 Kruskal Algorithm (크루스칼 알고리즘)
 
-Binary Tree ()
+Binary Tree (이진트리)
