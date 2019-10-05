@@ -28,3 +28,4 @@ Binary Tree (이진트리)
 
 isPrimeNumber
 
+Dijkstra Algorithm
