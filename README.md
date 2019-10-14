@@ -35,3 +35,5 @@ Dynamic Programming (다이나믹 프로그래밍)
 FloydWarshalAlgorithm (플로이드 와샬 알고리즘)
 
 TopologySort (위상정렬)
+
+StronglyConnectedComponent(강한 결합 요소)
