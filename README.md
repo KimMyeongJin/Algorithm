@@ -38,4 +38,4 @@ TopologySort (위상정렬)
 
 StronglyConnectedComponent(강한 결합 요소)
 
-NewtorkFlow(네트워크 플로우)
+NewtorkFlow
