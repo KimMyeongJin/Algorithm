@@ -41,3 +41,5 @@ StronglyConnectedComponent(강한 결합 요소)
 NetworkFlow (네트워크 플로우)
 
 Bipartite Matching (이분매칭)
+
+Knuth-Morris-Pratt (KMP 문자열 매칭 알고리즘)
