@@ -44,4 +44,3 @@ Bipartite Matching (이분매칭)
 
 Knuth-Morris-Pratt (KMP 문자열 매칭 알고리즘)
 
-
